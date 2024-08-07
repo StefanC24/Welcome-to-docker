@@ -51,7 +51,7 @@ const App = () => {
             {" "}
           </a>
 
-            <p>V1</p>
+            <p>V1.1</p>
 
         </div>
       </header>
